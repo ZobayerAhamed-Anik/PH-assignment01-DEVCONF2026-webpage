@@ -35,3 +35,15 @@ body {
     margin-bottom: 32px;
 }
 
+.footer-divider {
+    border: 0;
+    height: 1px;
+    background-color: rgb(43, 44, 56);
+    margin-bottom: 24px;
+}
+
+.footer-bottom {
+    text-align: left;
+    font-size: 12px;
+    color: rgb(87, 87, 87);
+}
