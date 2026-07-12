@@ -30,7 +30,7 @@ body {
     display: flex;
     justify-content: center;
     gap: 30px;
-    flex: 2;
+    flex: 3;
 }
 
 .nav-menu a {
@@ -42,6 +42,12 @@ body {
 
 .nav-menu a:hover {
     color: rgb(32, 74, 189);
+}
+
+.nav-register {
+    display: flex;
+    justify-content: flex-end;
+    flex: 1;
 }
 
 .button-register {
@@ -88,8 +94,9 @@ body {
     margin-bottom: 24px;
 }
 
-.footer-bottom {
+.footer-bottom p{
     text-align: left;
     font-size: 12px;
     color: rgb(87, 87, 87);
+    font-weight: 500;
 }
