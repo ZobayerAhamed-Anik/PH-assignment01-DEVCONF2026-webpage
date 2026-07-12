@@ -20,3 +20,18 @@ body {
     border: 1px solid white ;
     justify-content: space-between;  
 }
+
+.main-footer {
+    color: darkgray;
+    background-color: black;
+    padding: 60px 10%;
+    border-top: 1px solid white;
+}
+
+.footer-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 32px;
+}
+
