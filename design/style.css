@@ -44,7 +44,7 @@ body {
     color: rgb(32, 74, 189);
 }
 
-.nav-register {
+.button-register {
     text-decoration: none;
     background-color: rgb(32, 74, 189);
     color: white;
@@ -67,6 +67,18 @@ body {
     justify-content: space-between;
     align-items: center;
     margin-bottom: 32px;
+}
+
+.footer-links a {
+    text-decoration: none;
+    color: gray;
+    margin-left: 20px;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.footer-links a:hover {
+    color: rgb(32, 74, 189);
 }
 
 .footer-divider {
