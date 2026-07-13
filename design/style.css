@@ -213,6 +213,55 @@ body {
     max-width: 1280px;
 }
 
+.price-card {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: white;
+    border: 1px solid rgb(166, 205, 255);
+    border-radius: 16px;
+    padding: 48px 32px;
+    text-align: left;    
+}
+
+.pro-card {
+    background-color: rgb(12, 22, 56);
+    color: white;
+    border: none;
+    box-shadow: 10px 10px 25px rgba(0, 0, 0, 0.2);
+}
+
+.card-header {
+    margin-bottom: 32px;
+}
+
+.plan-name {
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    color: gray;
+}
+
+.pro-card .plan-name {
+    color: lightblue;
+}
+
+.price {
+    font-size: 48px;
+    font-weight: 800;
+    margin: 12px 0 4px 0;
+    letter-spacing: -1px;
+}
+
+.per-person {
+    font-size: 13px;
+    color: gray;
+}
+
+.pro-card .per-person {
+    color: lightblue;
+}
+
 .main-footer {
     color: darkgray;
     background-color: black;
