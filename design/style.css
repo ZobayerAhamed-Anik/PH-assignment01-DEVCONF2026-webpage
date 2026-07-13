@@ -263,6 +263,39 @@ body {
     color: lightblue;
 }
 
+.features {
+    list-style: none;
+    margin-bottom: 40px;
+    flex-grow: 1;
+}
+
+.pro-card .features li {
+    color: white;
+}
+
+.button-outline, .button-solid-blue {
+    display: block;
+    text-align: center;
+    border-radius: 8px;
+    padding: 16px;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 14px;
+}
+
+.button-outline {
+    border: 1px solid rgb(32, 74, 189);
+    background-color: transparent;
+}
+
+.button-solid-blue {
+    background-color: rgb(32, 74, 189);
+    color: white;
+}
+
+
+
+
 .main-footer {
     color: darkgray;
     background-color: black;
