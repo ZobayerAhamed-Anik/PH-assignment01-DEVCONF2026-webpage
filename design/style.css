@@ -273,6 +273,28 @@ body {
     color: white;
 }
 
+.features li {
+    font-size: 14px;
+    position: relative;
+    padding-left: 20px;
+    margin-bottom: 14px;
+    color: gray;
+}
+
+.features li::before {
+    content: "•    ";
+    color: darkblue;
+    font-weight: 800;
+    font-size: 16px;
+    text-align: left;
+    padding-right: 14px;
+}
+
+.pro-card .features li::before {
+    color:lightblue;
+}
+
+
 .button-outline, .button-solid-blue {
     display: block;
     text-align: center;
