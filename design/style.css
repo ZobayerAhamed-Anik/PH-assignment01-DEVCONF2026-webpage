@@ -61,7 +61,6 @@ body {
     text-align: center;
 }
 
-/* Hero-Banner Section */
 .hero-banner {
     position: relative;
     background-color: black;
@@ -90,7 +89,7 @@ body {
 }
 
 .hero-banner h1 {
-    color: rgb(255, 255, 255);
+    color: white;
     font-size: 60px;
     font-weight: 800;
     margin-bottom: 24px;
@@ -100,12 +99,12 @@ body {
 .hero-banner h1 em {
     font-style: italic;
     font-weight: 400;
-    color: rgb(255, 255, 255);
+    color: white;
 }
 
 .hero-banner p {
     font-size: 18px;
-    color: rgb(204, 204, 204);
+    color: lightgray;
     margin-bottom: 40px;
     line-height: 1.8;
 }
