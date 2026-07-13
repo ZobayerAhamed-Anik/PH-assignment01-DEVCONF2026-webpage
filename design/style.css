@@ -150,6 +150,42 @@ body {
     padding: 24px;
 }
 
+.tag {
+    display: inline-block;
+    font-size: 11px;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+    letter-spacing: 0.5px;
+}
+
+.tag-ai {
+    color: rgb(37, 99, 235);
+}
+
+.tag-cloud {
+    color: rgb(5, 150, 105);
+}
+
+.tag-frontend {
+    color: rgb(217, 119, 6);
+}
+
+.tag-security {
+    color: rgb(220, 38, 38);
+}
+
+.speaker-info h3 {
+    font-size: 22px;
+    color: black;
+    margin-bottom: 5px;
+}
+
+.speaker-info p {
+    color: gray;
+    font-size: 14px;
+}
+
 .main-footer {
     color: darkgray;
     background-color: black;
