@@ -192,6 +192,18 @@ body {
     text-align: center;
 }
 
+.pricing h2 {
+    font-size: 36px;
+    font-weight: 600;
+    margin-bottom: 8px;
+}
+
+.princing-subtitle{
+    color: gray;
+    margin-bottom: 50px;
+    font-size: 16px
+}
+
 .pricing-grid {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
