@@ -280,6 +280,11 @@ body {
     margin-bottom: 24px;
 }
 
+.price-card:hover {
+    border-color: rgb(24, 26, 156);
+    box-shadow: 10px 20px 30px rgba(99, 102, 241, 0.08);
+}
+
 .features li {
     font-size: 14px;
     position: relative;
@@ -405,13 +410,6 @@ body {
     padding: 32px;
     transition: all 0.3s ease;
     box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
-}
-
-
-.metrix-card:hover {
-    transform: translateY(-5px);
-    border-color: rgb(99, 102, 241);
-    box-shadow: 0 10px 20px rgba(99, 102, 241, 0.08);
 }
 
 .icon-wrapper {
