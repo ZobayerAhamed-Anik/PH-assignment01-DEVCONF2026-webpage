@@ -11,6 +11,7 @@ body {
     line-height: 1.5; 
 }
 
+/* The Navigation bar section... */
 .navbar {
     display: flex;
     justify-content: space-between;
@@ -61,6 +62,7 @@ body {
     text-align: center;
 }
 
+/* The Hero-banner section... */
 .hero-banner {
     position: relative;
     background-color: black;
@@ -109,6 +111,7 @@ body {
     line-height: 1.8;
 }
 
+/* The Speakers section... */
 .speakers {
     padding: 100px 8%;
     text-align: center;
@@ -186,6 +189,7 @@ body {
     font-size: 14px;
 }
 
+/* The Pricing of tickets section... */
 .pricing {
     padding: 100px 8%;
     background-color: white;
@@ -327,6 +331,7 @@ body {
     color: white;
 }
 
+/* The Statistics section... */
 .stats-section {
     padding: 60px 8%;
     background-color: white;
@@ -362,6 +367,7 @@ body {
     font-weight: 500;
 }
 
+/* The value metrix section... */
 .value-metrix-section {
     padding: 80px 20px;
     background-color: white;
@@ -456,6 +462,7 @@ body {
     line-height: 1.6;
 }
 
+/* The FAQ section... */
 .faq-section {
     padding: 100px 8%;
     background-color: #ffffff;
@@ -507,6 +514,7 @@ body {
     line-height: 1.6;
 }
 
+/* The footer section... */
 .main-footer {
     color: darkgray;
     background-color: black;
